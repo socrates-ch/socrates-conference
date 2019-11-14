@@ -1,0 +1,549 @@
+# SoCraTes-CH 2019
+
+All you want to know about Socrates CH.. < http://www.socrates-ch.org/ >  updates on Twitter https://twitter.com/SoCraTes_CH
+
+## Hashtags
+
+image::IMG_20190329_095230.jpg[]
+
+- https://twitter.com/SoCraTes_CH
+- https://twitter.com/hashtag/socratesch
+- https://twitter.com/InstiFtan
+- https://twitter.com/Graubunden
+- https://twitter.com/miaEngiadina
+
+## Tag 1
+
+image::Image from iOS.jpg[]
+
+### Conascense
+
+link:Conascense.pdf[]
+
+### DocOps
+
+DocOps Links
+
+- https://docops.info/
+- https://gauge.org/
+- https://github.com/getgauge/gauge
+- https://github.com/DocOps-Method/DocOps
+
+Azure [LUIS] MVP tool that is a bot that can read docs, (bearbeitet)
+docops.info
+DocOps
+Hugo Whisper is a documentation theme built with Hugo.
+gauge.org
+Open Source Test Automation Framework | Gauge
+Gauge is an open source test automation framework that takes the pain out of writing and maintaining regression or acceptance test suites.
+https://gauge.org/assets/images/gauge_release_twitter_card_2.jpg
+GitHub
+getgauge/gauge
+Light weight cross-platform test automation. Contribute to getgauge/gauge development by creating an account on GitHub.
+GitHub
+DocOps-Method/DocOps
+The source code of the website https://docops.info - DocOps-Method/DocOps
+
+image::IMG_20190330_073215_4.jpg[]
+
+image::IMG_20190330_072755_6.jpg[]
+
+image::IMG_20190330_072808_1.jpg[]
+
+image::IMG_20190330_072802_0.jpg[]
+
+
+### Object oriented design
+
+link:CRC.pdf[]
+
+https://www.goodreads.com/book/show/1694645
+
+What Every Programmer Should Know about Object-Oriented Design
+Partial ContentsChapter 1: What Does It Mean to Be Object-Oriented, Anyway?1.1 Encapsulation1.2 Information/Implementation Hiding1.3 Stat...
+
+### Intro to GraphQL
+
+https://gist.github.com/colmarius/4e097c07acb41f8a56319a01fa7ba4f1
+
+### Scratch Kata Session:
+
+https://scratch.mit.edu/projects/298307955/
+
+### Some impressions of the day
+
+image::IMG_20190329_113457.jpg[]
+image::IMG_20190329_114445.jpg[]
+image::IMG_20190329_153321.jpg[]
+
+
+
+
+## Tag 2
+image::Image from iOS (3).jpg[]
+
+### Situational Leadership
+
+https://en.wikipedia.org/wiki/Situational_leadership_theory
+
+What we talked about in team structure
+Wikipedia
+Situational leadership theory
+Situational Leadership Theory, or the Situational Leadership Model, is a model created by Paul Hersey and Ken Blanchard, developed while working on Management of Organizational Behavior. The theory was first introduced in 1969 as "life cycle theory of leadership". During the mid-1970s, life cycle theory of leadership was renamed "Situational Leadership Theory."Situational Leadership emerged as one of a related group of two-factor theories of leadership, many of which originated in research done at Ohio State University in the 1960s. These two-factor theories hold that possibilities in leadership style are composed of combinations of two main variables: task behavior and relationship behavior… Mehr anzeigen
+https://en.wikipedia.org/wiki/Big_Five_personality_traits
+Wikipedia
+Big Five personality traits
+The Big Five personality traits, also known as the five-factor model (FFM) and the OCEAN model, is a taxonomy for personality traits. It is based on common language descriptors. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person. For example, someone described as conscientious is more likely to be described as "always prepared" rather than "messy". This theory is based therefore on the association between words but not on neuropsychological experiments. This theory uses descriptors of common language and therefore suggests five broad dimensions commonly used to describe… Mehr anzeigen
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wiki-grafik_peats-de_big_five_ENG.png/1200px-Wiki-grafik_peats-de_big_five_ENG.png
+
+### GraphQL
+
+GraphQL hands-on workshop code: https://github.com/anteloe/GraphQL-Workshop (there is also an in-browser CodeSandbox.io link)
+GitHub
+anteloe/GraphQL-Workshop
+Created with CodeSandbox. Contribute to anteloe/GraphQL-Workshop development by creating an account on GitHub.
+
+### No Enterprise, just get shit done
+
+image::IMG_20190330_124038.jpg[]
+
+### Actor Systems
+
+image::IMG_20190330_160039.jpg[]
+
+### Rewriting Software
+
+Rewriting your software ... Some nice stories - https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22
+Medium
+Lessons from 6 software rewrite stories
+A new take on the age-old question: Should you rewrite from scratch, or is that “the worst strategic mistake you can make”?
+
+### event sourcing/journal and snapshots in akka
+
+image::IMG_20190330_160257.jpg[]
+
+### Create a Vue.js app
+
+https://gist.github.com/colmarius/9030306ddda0f7be719eff660d37e52b
+
+### Clean Architecture
+
+Slides from Implementing The Clean Architecture: https://entropywins.wtf/slides/fun-architecture
+
+This is a better visualization of the architecture of the Wikimedia DE fundraising software than what I had in the slides.
+There also is a blog post version of the presentation: https://www.entropywins.wtf/blog/2016/11/24/implementing-the-clean-architecture/
+
+### Question Driven Approach
+
+Github Project https://github.com/xquest-lang/xquest-lang
+GitHub
+xquest-lang/xquest-lang
+DSL for xQuest language. Contribute to xquest-lang/xquest-lang development by creating an account on GitHub.
+
+image::Image from iOS (5).jpg[]
+image::Image from iOS (6).jpg[]
+image::Image from iOS (7).jpg[]
+
+### Refactoring Golf
+
+https://github.com/daviddenton/refactoring-golf
+
+A Refactoring Golf exercise. Contribute to daviddenton/refactoring-golf development by creating an account on GitHub.
+
+https://github.com/ivanmoore/RefactoringGolf
+
+Refactoring Golf Exercise (inspired by Dave Cleal, Ivan Moore and Mike Hill) - ivanmoore/RefactoringGolf
+
+### Katacombs
+
+https://github.com/conso/katacombs
+
+Coding Kata - implement a text adventure game set in a huge underground system of caves, tunnels and mysterious locations - conso/katacombs
+
+https://github.com/RefactoringCombos/ArlosCommitNotation
+
+the talk I mentioned https://www.ustream.tv/recorded/114862163
+
+Arlo Belshee - Refactoring to asynchronous pattern
+How do we change causality without breaking things? There are a lot of problems we solve with accidentally synchronous solutions: functions and procedures that do the work when called. These are great for simplicity and debuggability. However, they can present problems with testability and responsiveness. But changing this choice is hard. Execution model is effectively an architectural concern. In this talk we will refactor between synchronous and asynchronous approaches to common problems: UI, data processing, and assembling components into bigger components. We will do this with true refactoring: incremental, able to stop at any time, and proving that no step ever introduces our fixes a bu… Mehr anzeigen
+
+
+## Day 3
+
+### Sharing Code Between Projects
+
+We talked about this problem with @enzian and while I'm unbale to say anything about the proposed solution, the problem analysis is spot on! https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/
+Smashing Magazine
+Sharing Code Between Projects: Lessons Learned In The Trenches — Smashing Magazine
+Ever find yourself writing the same code over and over again? In this article, Jonathan Saring shares his and his team's lessons learned from their own journey towards simple and effective code sharing.
+
+### Last proper dinner, sun, ski, learning and fun!
+
+image::IMG_20190331_131324.jpg[]
+
+
+## Log
+
+Stephan Classen [18:56 Uhr]
+Is there a magic google sheet for the participants as there was one last year?
+
+patbaumgartner [18:08 Uhr]
+And this year, the magic made it already full of colors :leichtes_lächeln: https://twitter.com/patbaumgartner/status/1102820775931904001
+Patrick Baumgartner@patbaumgartner
+Just sent out a bunch of emails to the @SoCraTes_CH participants. The magic excel sheet is open. I am curious to see what will happe. Spoiler: last year we had a fondue like/hate discussion :freudentränen:
+Twitter5. März
+
+Simon Berner [21:25 Uhr]
+ist #socrates_ch beigetreten.
+
+Stephan Classen [20:49 Uhr]
+Which train are you going to take from Zurich?
+I will be joinig the ride in Landquart.
+
+Jeroen [09:26 Uhr]
+Are there people taking the train from Zurich near 17:00 (on the 28th)? I am thinking of taking a plane that arrived at the airport at 15:45 and would prefer to tag along with someone that knows the route or at least knows German/Switzerland better than I do.
+
+Jeroen [10:35 Uhr]
+I will bring these games
+• https://boardgamegeek.com/boardgame/206915/tempel-des-schreckens (from SoCraTes DE and BE fame)
+• https://boardgamegeek.com/boardgame/128882/resistance-avalon
+• https://boardgamegeek.com/boardgame/219215/werewords
+• Maybe more if luggage allows it (bearbeitet) 
+
+Jeroen [11:53 Uhr]
+Games ARE a thing at SoCraTes CH right?!
+
+Darragh Grealish [22:56 Uhr]
+For those going by train, please be advised that the last section of the line is closed :( 
+Their is a replacement bus,.
+People going directly to Ftan, could go vi Ardez 
+https://www.rhb.ch/en/news-events/scheduled-railway-replacement/details/article/totalsperrung-unterengadin-1
+Rhätische Bahn
+Total closure of the Lower Engadin line
+Due to the need to completely renovate both the Giarsun Tunnel and the Magnacun Tunnel on Rhaetian Railway’s Lower Engadin line, the track must be closed for six months. From 11 March to 7 September 2019, therefore, the section between Susch and Scuol-Tarasp will be closed to rail traffic. During the six-month closure of the line, a rail replacement bus service will be in operation in the Lower Engadin. Direct connections currently running between Landquart and St. Moritz and the Vereina car transporter are not affected.
+https://www.rhb.ch/fileadmin/_processed_/d/6/csm_Unterengadin_Bahnersatzkonzept_Visualisierung_ef5c0baaa9.jpg
+
+Jeroen [10:05 Uhr]
+Is there any coordination going on to travel from Zurich to Ftan yet? The closed line stuff above makes me extra scared of that bit of travel :leichtes_lächeln:
+
+Oliver Nautsch [13:08 Uhr]
+I have space for 4 additional people in my car. Zurich -> Ftan
+
+Jeroen [14:08 Uhr]
+I'd love a spot. When are you making that trip?
+
+patbaumgartner [06:40 Uhr]
+Btw. I will send out on the weekend some information about travelling and basic packing.
+
+patbaumgartner [06:41 Uhr]
+Leaving Zurich around Lunchtime is always a good idea: In previous years, most took the train at 13:37 and arrived around 17:00 at the venue.
+
+patbaumgartner [08:22 Uhr]
+Just as an information: I sent out this morning more information and a packing list. Make sure you read it :zwinkern:
+
+Jeroen [11:35 Uhr]
+What is the "fondue place on a mountain"? Does it have a website?
+
+Jeroen [11:38 Uhr]
+The packing list has "outdoor shoes with a grip". Does something like these (normal hiking boots) work?
+Pasted image at 2019-03-25, 11:38 AM 
+
+
+Jeroen [17:10 Uhr]
+"Towel for spa excursion"... Can't we rent a towel at the spa? Bringing one can be a bit silly for people coming from far away. (The site of the spa does not seem to have this info on it) (bearbeitet) 
+
+Franzi (Franziska) Sauerwein [17:48 Uhr]
+Yes they do rent them
+
+Franzi (Franziska) Sauerwein [17:54 Uhr]
+https://www.bognengiadina.ch/de/baederlandschaft/tarife-bade-saunalandschaft under "leihgebühren" (bearbeitet) 
+Mineralbad Bogn Engiadina, Scuol
+Tarife Bade- & Saunalandschaft
+Tarife Bade- & Saunalandschaft
+24. Juli 2017
+
+Pedro Santos [06:46 Uhr]
+ist #socrates_ch gemeinsam mit 2 anderen beigetreten.
+
+Oliver S. [18:15 Uhr]
+Is somebody joining me for the 12:37 train tomorrow?
+
+Daniel Koller [07:46 Uhr]
+@Sandro Ibig and I will take the 10:37 train
+
+Sandro Ibig [07:46 Uhr]
+wurde von Daniel Koller zu #socrates_ch hinzugefügt.
+
+Girolamo Marroccoli [08:39 Uhr]
+12.33 from Basel (13.37 ZH and 14.50 Landquart)
+
+Raphael Meyer [16:49 Uhr]
+Spectacular view from here, but unfortunately I forgot to bring a beer.
+DSC_0855.JPG
+
+Oliver S. [23:40 Uhr]
+DSC_0370.JPG 
+
+
+Girolamo Marroccoli [09:48 Uhr]
+
+image::Image from iOS.jpg[]
+Image from iOS 
+
+
+Marko Umek [09:49 Uhr]
+image::Image from iOS (1).jpg[]
+
+image::Image from iOS (2).jpg[]
+
+
+Pedro Santos [09:52 Uhr]
+Conascense session slides
+PDF 
+Conascence.pdf
+700 kB PDF — Zum Anzeigen klicken
+
+patbaumgartner [09:52 Uhr]
+Hashtags
+IMG_20190329_095230.jpg 
+
+
+Darragh Grealish [10:57 Uhr]
+DocOps Links
+https://docops.info/
+https://gauge.org/
+https://github.com/getgauge/gauge
+https://github.com/DocOps-Method/DocOps
+
+Azure [LUIS] MVP tool that is a bot that can read docs, (bearbeitet) 
+docops.info
+DocOps
+Hugo Whisper is a documentation theme built with Hugo.
+gauge.org
+Open Source Test Automation Framework | Gauge
+Gauge is an open source test automation framework that takes the pain out of writing and maintaining regression or acceptance test suites.
+https://gauge.org/assets/images/gauge_release_twitter_card_2.jpg
+GitHub
+getgauge/gauge
+Light weight cross-platform test automation. Contribute to getgauge/gauge development by creating an account on GitHub.
+GitHub
+DocOps-Method/DocOps
+The source code of the website https://docops.info - DocOps-Method/DocOps
+
+Darragh Grealish [11:30 Uhr]
+FYI: Restaurant tonight Prui, can't find a menu online, but for thoese looking for something different, should contact @patbaumgartner and perhaps we can call them to order ahead
+https://scuol-zernez.engadin.com/en/explore-regions/ftan/bergrestaurant-prumaran-prui
+
+Stephan Classen [11:45 Uhr]
+IMG_20190329_114445.jpg 
+
+
+Pedro Santos [12:07 Uhr]
+Object oriented design - session slides
+PDF 
+CRC.pdf
+2 MB PDF — Zum Anzeigen klicken
+
+Marius Colacioiu [12:53 Uhr]
+here is the link to "Intro to GraphQL" talk - https://gist.github.com/colmarius/4e097c07acb41f8a56319a01fa7ba4f1
+
+Raphael Meyer [13:22 Uhr]
+Scratch Kata Session: https://scratch.mit.edu/projects/298307955/
+
+Pedro Santos [13:42 Uhr]
+https://www.goodreads.com/book/show/1694645
+goodreads.com
+What Every Programmer Should Know about Object-Oriented Design
+Partial ContentsChapter 1: What Does It Mean to Be Object-Oriented, Anyway?1.1 Encapsulation1.2 Information/Implementation Hiding1.3 Stat...
+
+Stefan Reinhard [15:36 Uhr]
+IMG_20190329_113457.jpg 
+
+
+patbaumgartner [21:02 Uhr]
+Ppl are coming back @pedromsantos
+
+Darragh Grealish [21:12 Uhr]
+Awesome
+IMG_20190329_153321.jpg 
+
+
+Jeroen [23:05 Uhr]
+I'd like to do a session on the Clean Architecture tomorrow. Since there is no chance I make the marketplace, *I'm looking for someone to present this session* for me and put the already created paper thing on the board.
+
+when: second session track after lunch
+where: hackergarten (beamer needed)
+what: an introduction to the Clean Architecture plus story of how we implemented it at Wikimedia Deutschland. Can be interactive and maybe turn into code review if the audience so desires (bearbeitet) 
+Pasted image at 2019-03-29, 11:05 PM 
+
+
+patbaumgartner [08:05 Uhr]
+DocOps by Vadim
+IMG_20190330_073215_4.jpg 
+
+IMG_20190330_072755_6.jpg 
+
+IMG_20190330_072808_1.jpg 
+
+IMG_20190330_072802_0.jpg 
+
+
+saurabh [08:25 Uhr]
+ist #socrates_ch beigetreten.
+
+Girolamo Marroccoli [10:04 Uhr]
+Image from iOS 
+
+
+Silvio Heuberger [10:57 Uhr]
+https://en.wikipedia.org/wiki/Situational_leadership_theory
+
+What we talked about in team structure
+Wikipedia
+Situational leadership theory
+Situational Leadership Theory, or the Situational Leadership Model, is a model created by Paul Hersey and Ken Blanchard, developed while working on Management of Organizational Behavior. The theory was first introduced in 1969 as "life cycle theory of leadership". During the mid-1970s, life cycle theory of leadership was renamed "Situational Leadership Theory."Situational Leadership emerged as one of a related group of two-factor theories of leadership, many of which originated in research done at Ohio State University in the 1960s. These two-factor theories hold that possibilities in leadership style are composed of combinations of two main variables: task behavior and relationship behavior… Mehr anzeigen
+https://en.wikipedia.org/wiki/Big_Five_personality_traits
+Wikipedia
+Big Five personality traits
+The Big Five personality traits, also known as the five-factor model (FFM) and the OCEAN model, is a taxonomy for personality traits. It is based on common language descriptors. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person. For example, someone described as conscientious is more likely to be described as "always prepared" rather than "messy". This theory is based therefore on the association between words but not on neuropsychological experiments. This theory uses descriptors of common language and therefore suggests five broad dimensions commonly used to describe… Mehr anzeigen
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wiki-grafik_peats-de_big_five_ENG.png/1200px-Wiki-grafik_peats-de_big_five_ENG.png
+
+Girolamo Marroccoli [11:05 Uhr]
+Image from iOS 
+
+
+Marius Colacioiu [11:52 Uhr]
+GraphQL hands-on workshop code: https://github.com/anteloe/GraphQL-Workshop (there is also an in-browser CodeSandbox.io link)
+GitHub
+anteloe/GraphQL-Workshop
+Created with CodeSandbox. Contribute to anteloe/GraphQL-Workshop development by creating an account on GitHub.
+
+Stephan Classen [12:46 Uhr]
+No Enterprise, just get shit done
+IMG_20190330_124038.jpg 
+
+
+Oliver S. [12:46 Uhr]
+DSC_0379.JPG 
+
+DSC_0380.JPG 
+
+
+Silvio Heuberger [16:00 Uhr]
+actor systems
+IMG_20190330_160039.jpg 
+
+
+patbaumgartner [16:01 Uhr]
+Rewriting your software ... Some nice stories - https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22
+Medium
+Lessons from 6 software rewrite stories
+A new take on the age-old question: Should you rewrite from scratch, or is that “the worst strategic mistake you can make”?
+Reading time
+30 min read
+19. Feb.
+https://cdn-images-1.medium.com/max/1200/1*ywYwvB-aydv0Ovx7K-5P3g.jpeg
+
+Silvio Heuberger [16:03 Uhr]
+event sourcing/journal and snapshots in akka
+IMG_20190330_160257.jpg 
+
+
+Marius Colacioiu [16:09 Uhr]
+here is the gist to "Create a Vue.js app" - https://gist.github.com/colmarius/9030306ddda0f7be719eff660d37e52b
+
+Jeroen [16:17 Uhr]
+Slides from Implementing The Clean Architecture: https://entropywins.wtf/slides/fun-architecture
+This is a better visualization of the architecture of the Wikimedia DE fundraising software than what I had in the slides. There also is a blog post version of the presentation: https://www.entropywins.wtf/blog/2016/11/24/implementing-the-clean-architecture/
+Pasted image at 2019-03-30, 4:19 PM 
+
+
+Marko Umek [19:29 Uhr]
+Flipcharts from Question Driven Approach
+Image from iOS 
+
+Cont.
+Image from iOS 
+
+Image from iOS 
+
+
+Marko Umek [19:38 Uhr]
+Github Project https://github.com/xquest-lang/xquest-lang
+GitHub
+xquest-lang/xquest-lang
+DSL for xQuest language. Contribute to xquest-lang/xquest-lang development by creating an account on GitHub.
+
+Oliver Nautsch [20:10 Uhr]
+https://github.com/daviddenton/refactoring-golf
+GitHub
+daviddenton/refactoring-golf
+A Refactoring Golf exercise. Contribute to daviddenton/refactoring-golf development by creating an account on GitHub.
+https://github.com/ivanmoore/RefactoringGolf
+GitHub
+ivanmoore/RefactoringGolf
+Refactoring Golf Exercise (inspired by Dave Cleal, Ivan Moore and Mike Hill) - ivanmoore/RefactoringGolf
+
+Stephan Classen [01:13 Uhr]
+https://github.com/conso/katacombs
+GitHub
+conso/katacombs
+Coding Kata - implement a text adventure game set in a huge underground system of caves, tunnels and mysterious locations - conso/katacombs
+
+Barnabás Südy [12:52 Uhr]
+Guys, thanks for the awesome weekend. Can you guys post your awesome pictures?
+
+Slackbot [12:52 Uhr]
+Hi! Just a friendly nudge that "guys" is a bit gender-specific, and we'd prefer something more neutral, such as "Folks" or "Everyone" or "All." Thanks!
+
+Barnabás Südy [12:53 Uhr]
+IMG_20190331_092552920_HDR.jpg 
+
+
+IMG_20190330_093307549_HDR.jpg 
+
+
+Darragh Grealish [13:39 Uhr]
+Last proper dinner, sun, ski, learning and fun!
+IMG_20190331_131324.jpg 
+
+
+Stephan Classen [09:53 Uhr]
+@pedromsantos can you please post the slides to the "Teaching XP" session. Thank you.
+
+Simon Sebright [12:19 Uhr]
+@pedromsantos  here an example of swiss precision in life (bearbeitet) 
+20190401_121311.jpg 
+
+
+Oliver Nautsch [14:26 Uhr]
+https://en.m.wikipedia.org/wiki/List_of_system_quality_attributes
+Wikipedia
+List of system quality attributes
+Within systems engineering, quality attributes are realized non-functional requirements used to evaluate the performance of a system.  These are sometimes named "ilities" after the suffix many of the words share. They are usually Architecturally Significant Requirements that require architects' attention.
+
+Oliver Nautsch [19:20 Uhr]
+remember SAFie ?
+Screenshot_20190402_192004.png 
+
+
+Oliver Nautsch [20:19 Uhr]
+https://github.com/RefactoringCombos/ArlosCommitNotation
+GitHub
+RefactoringCombos/ArlosCommitNotation
+Contribute to RefactoringCombos/ArlosCommitNotation development by creating an account on GitHub.
+the talk I mentioned https://www.ustream.tv/recorded/114862163
+IBM Watson Media
+Arlo Belshee - Refactoring to asynchronous pattern
+How do we change causality without breaking things? There are a lot of problems we solve with accidentally synchronous solutions: functions and procedures that do the work when called. These are great for simplicity and debuggability. However, they can present problems with testability and responsiveness. But changing this choice is hard. Execution model is effectively an architectural concern. In this talk we will refactor between synchronous and asynchronous approaches to common problems: UI, data processing, and assembling components into bigger components. We will do this with true refactoring: incremental, able to stop at any time, and proving that no step ever introduces our fixes a bu… Mehr anzeigen
+
+Stéphane Bisinger [13:30 Uhr]
+We talked about this problem with @enzian and while I'm unbale to say anything about the proposed solution, the problem analysis is spot on! https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/
+Smashing Magazine
+Sharing Code Between Projects: Lessons Learned In The Trenches — Smashing Magazine
+Ever find yourself writing the same code over and over again? In this article, Jonathan Saring shares his and his team's lessons learned from their own journey towards simple and effective code sharing.
+25. Apr. 2018
+Nachrichteneingabe
+
+
+Nachricht an #socrates_ch
